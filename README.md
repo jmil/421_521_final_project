@@ -1,4 +1,6 @@
-421_521_final_project
+Rice Bioe 421/521 Final Projects
 =====================
 
-Rice Bioe 421/521 Final Project
+Super repo holding all class projects
+
+
